@@ -13,7 +13,7 @@
     "@ai-sdk/google": "^2.0.44",
     "@ai-sdk/openai": "^2.0.77",
     "@ai-sdk/react": "^2.0.108",
-    "@inkeep/agents-cli": "^0.37.2",
+    "@inkeep/agents-cli": "^0.38.0",
     "@inkeep/agents-core": "^0.37.2",
     "@inkeep/agents-manage-api": "^0.37.2",
     "@inkeep/agents-manage-ui": "^0.37.2",
