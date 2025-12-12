@@ -16,7 +16,7 @@
     "@inkeep/agents-cli": "^0.37.2",
     "@inkeep/agents-core": "^0.37.2",
     "@inkeep/agents-manage-api": "^0.37.2",
-    "@inkeep/agents-manage-ui": "^0.37.2",
+    "@inkeep/agents-manage-ui": "^0.38.0",
     "@inkeep/agents-run-api": "^0.37.2",
     "@inkeep/agents-sdk": "^0.37.2",
     "@inkeep/agents-ui": "^0.15.4",
