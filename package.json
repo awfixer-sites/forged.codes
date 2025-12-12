@@ -15,7 +15,7 @@
     "@ai-sdk/react": "^2.0.108",
     "@inkeep/agents-cli": "^0.37.2",
     "@inkeep/agents-core": "^0.37.2",
-    "@inkeep/agents-manage-api": "^0.37.2",
+    "@inkeep/agents-manage-api": "^0.38.0",
     "@inkeep/agents-manage-ui": "^0.37.2",
     "@inkeep/agents-run-api": "^0.37.2",
     "@inkeep/agents-sdk": "^0.37.2",
